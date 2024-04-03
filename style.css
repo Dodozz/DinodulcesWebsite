@@ -305,3 +305,185 @@ body {
 		width: 100%;
 	}
 }
+
+
+.VerticalNavbar {
+    width: 87px;
+    height: 555px;
+    position: relative
+}
+
+.Navar {
+    width: 87px;
+    height: 555px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(181deg, rgba(255, 255, 255, 0.13) 0%, rgba(114.75, 114.75, 114.75, 0.13) 100%);
+    border: 1px rgba(255, 255, 255, 0.05) solid;
+    backdrop-filter: blur(4px);
+    border-radius: 30px;
+}
+
+.Group1 {
+    width: 61px;
+    height: 61px;
+    left: 13px;
+    top: 432px;
+    position: absolute
+}
+
+.Usuario {
+    width: 61px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(138deg, #864DFE 0%, #2E008F 100%);
+    border-radius: 8px;
+    border: 1px rgba(255, 255, 255, 0.28) solid
+}
+
+.User1 {
+    width: 39px;
+    height: 39px;
+    left: 11px;
+    top: 11px;
+    position: absolute
+}
+
+.Group2 {
+    width: 61px;
+    height: 61px;
+    left: 13px;
+    top: 358px;
+    position: absolute
+}
+
+.Home {
+    width: 61px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(139deg, #C956FF 0%, #5F2049 100%);
+    border-radius: 8px;
+    border: 1px rgba(255, 255, 255, 0.29) solid
+}
+
+.Home1 {
+    width: 39px;
+    height: 39px;
+    left: 11px;
+    top: 11px;
+    position: absolute
+}
+
+.Group3 {
+    width: 61px;
+    height: 61px;
+    left: 13px;
+    top: 284px;
+    position: absolute
+}
+
+.Catalogo {
+    width: 61px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(139deg, #FF5656 0%, #461919 100%);
+    border-radius: 8px;
+    border: 1px rgba(255, 255, 255, 0.29) solid
+}
+
+.Store3 {
+    width: 39px;
+    height: 39px;
+    left: 11px;
+    top: 11px;
+    position: absolute
+}
+
+.Group4 {
+    width: 61px;
+    height: 61px;
+    left: 13px;
+    top: 210px;
+    position: absolute
+}
+
+.ReseAs {
+    width: 61px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(314deg, #FF7A00 0%, #E2B48A 100%);
+    border-radius: 8px;
+    border: 1px rgba(255, 255, 255, 0.29) solid
+}
+
+.Star1 {
+    width: 39px;
+    height: 39px;
+    left: 11px;
+    top: 11px;
+    position: absolute
+}
+
+.Group5 {
+    width: 61px;
+    height: 61px;
+    left: 13px;
+    top: 136px;
+    position: absolute
+}
+
+.Carrito {
+    width: 61px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(140deg, #47FF37 0%, #064A00 100%);
+    border-radius: 8px;
+    border: 1px rgba(255, 255, 255, 0.29) solid
+}
+
+.ShoppingCart11 {
+    width: 39px;
+    height: 39px;
+    left: 11px;
+    top: 11px;
+    position: absolute
+}
+
+.Group6 {
+    width: 61px;
+    height: 61px;
+    left: 13px;
+    top: 62px;
+    position: absolute
+}
+
+.Pedidos {
+    width: 61px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(139deg, #2C9AFF 0%, #005099 100%);
+    border-radius: 8px;
+    border: 1px rgba(255, 255, 255, 0.29) solid
+}
+
+.Package1 {
+    width: 39px;
+    height: 39px;
+    left: 11px;
+    top: 11px;
+    position: absolute
+}
+
