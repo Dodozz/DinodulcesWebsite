@@ -5,7 +5,8 @@
     padding: 0%;
 }
 body {
-    background: radial-gradient(circle,#ffffff,#dfbdff);
+    background: radial-gradient(circle,#ffffff,#ffffff);
+    min-height: 100vh;
     margin: 0;
     padding: 0;
 }
